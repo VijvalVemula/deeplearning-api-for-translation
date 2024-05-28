@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+peewee
+transformers
+sentencepiece
+torch
+
+
